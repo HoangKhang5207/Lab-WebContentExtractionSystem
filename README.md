@@ -1,4 +1,4 @@
-**Web Content Extractor**
+**Web Content Extraction System**
 
 A robust system for extracting web resources—including images, videos, audio files, and text—from any given URL. Built with a Spring Boot backend and a ReactJS frontend, this project provides a clean API and user-friendly interface for content extraction and storage.
 
